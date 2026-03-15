@@ -2,6 +2,10 @@
 
 A Flutter app with an Instagram-style feed: posts, stories, shimmer loading, pinch-to-zoom on images, and infinite scroll.
 
+## Demo
+
+📱 **[Watch the app demo on YouTube](https://youtube.com/shorts/5he0jiqgpjw?si=8PQgEIY9uSkI9OaO)**
+
 ---
 
 ## State management: Provider
