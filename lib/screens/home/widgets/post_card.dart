@@ -1094,10 +1094,13 @@ class _CommentsBottomSheetContentState
     final sheetHeight =
         MediaQuery.sizeOf(context).height *
         (MediaQuery.sizeOf(context).height < 600 ? 0.7 : 0.7);
+    final keyboardHeight = MediaQuery.viewInsetsOf(context).bottom;
 
-    return Container(
-      height: sheetHeight,
-      decoration: BoxDecoration(
+    return Padding(
+      padding: EdgeInsets.only(bottom: keyboardHeight),
+      child: Container(
+        height: sheetHeight,
+        decoration: BoxDecoration(
         color: sheetBg,
         borderRadius: const BorderRadius.vertical(top: Radius.circular(12)),
       ),
@@ -1275,6 +1278,7 @@ class _CommentsBottomSheetContentState
           ),
         ],
       ),
+    ),
     );
   }
 }
