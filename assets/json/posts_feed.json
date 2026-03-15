@@ -1,0 +1,500 @@
+{
+  "posts": [
+    {
+      "id": "post_1",
+      "author": {
+        "id": "user_1",
+        "username": "travels_with_priya",
+        "displayName": "Priya Sharma",
+        "avatarUrl": "https://picsum.photos/seed/priya/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/rajasthan1/800/800",
+        "https://picsum.photos/seed/rajasthan2/800/800",
+        "https://picsum.photos/seed/rajasthan3/800/800",
+        "https://picsum.photos/seed/rajasthan4/800/800"
+      ],
+      "caption": "Rajasthan never disappoints 🌅 Jaisalmer at golden hour. Already planning the next trip! #rajasthan #jaisalmer #travelindia #wanderlust",
+      "likesCount": 12480,
+      "commentsCount": 342,
+      "sharesCount": 156,
+      "sendsCount": 892,
+      "createdAt": "2025-03-14T08:30:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": false,
+      "likes": [
+        {
+          "id": "like_1",
+          "postId": "post_1",
+          "user": {
+            "id": "user_2",
+            "username": "bhumii.1224",
+            "displayName": "Bhumi",
+            "avatarUrl": "https://picsum.photos/seed/bhumi/200"
+          },
+          "createdAt": "2025-03-14T08:35:00.000Z"
+        },
+        {
+          "id": "like_2",
+          "postId": "post_1",
+          "user": {
+            "id": "user_3",
+            "username": "aditya.explores",
+            "displayName": "Aditya",
+            "avatarUrl": "https://picsum.photos/seed/aditya/200"
+          },
+          "createdAt": "2025-03-14T08:42:00.000Z"
+        },
+        {
+          "id": "like_3",
+          "postId": "post_1",
+          "user": {
+            "id": "user_4",
+            "username": "suhani_shinde",
+            "displayName": "Suhani Shinde",
+            "avatarUrl": "https://picsum.photos/seed/suhani/200"
+          },
+          "createdAt": "2025-03-14T09:00:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment_1",
+          "postId": "post_1",
+          "user": {
+            "id": "user_2",
+            "username": "bhumii.1224",
+            "displayName": "Bhumi",
+            "avatarUrl": "https://picsum.photos/seed/bhumi/200"
+          },
+          "text": "This is so dreamy! Added to my bucket list 😍",
+          "createdAt": "2025-03-14T08:50:00.000Z",
+          "likesCount": 24,
+          "replies": [
+            {
+              "id": "reply_1_1",
+              "postId": "post_1",
+              "user": {
+                "id": "user_1",
+                "username": "travels_with_priya",
+                "displayName": "Priya Sharma",
+                "avatarUrl": "https://picsum.photos/seed/priya/200"
+              },
+              "text": "You have to go! Best time is Oct–Feb 💛",
+              "createdAt": "2025-03-14T09:10:00.000Z",
+              "likesCount": 8
+            }
+          ]
+        },
+        {
+          "id": "comment_2",
+          "postId": "post_1",
+          "user": {
+            "id": "user_5",
+            "username": "rohan.photography",
+            "displayName": "Rohan",
+            "avatarUrl": "https://picsum.photos/seed/rohan/200"
+          },
+          "text": "Which lens did you use for the first shot? 🔥",
+          "createdAt": "2025-03-14T09:15:00.000Z",
+          "likesCount": 12,
+          "replies": [
+            {
+              "id": "reply_2_1",
+              "postId": "post_1",
+              "user": {
+                "id": "user_1",
+                "username": "travels_with_priya",
+                "displayName": "Priya Sharma",
+                "avatarUrl": "https://picsum.photos/seed/priya/200"
+              },
+              "text": "24-70mm at 35mm! Perfect for travel",
+              "createdAt": "2025-03-14T09:30:00.000Z",
+              "likesCount": 5
+            }
+          ]
+        },
+        {
+          "id": "comment_3",
+          "postId": "post_1",
+          "user": {
+            "id": "user_6",
+            "username": "anushka_malhotra",
+            "displayName": "Anushka",
+            "avatarUrl": "https://picsum.photos/seed/anushka/200"
+          },
+          "text": "Stunning colours! ❤️❤️",
+          "createdAt": "2025-03-14T10:00:00.000Z",
+          "likesCount": 3
+        }
+      ]
+    },
+    {
+      "id": "post_2",
+      "author": {
+        "id": "user_7",
+        "username": "thetatvaindia",
+        "displayName": "Tatva India",
+        "avatarUrl": "https://picsum.photos/seed/tatva/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/news1/800/800"
+      ],
+      "caption": "Explosions rattled buildings in Dubai and a large plume of smoke rose over the city on Friday. Authorities are investigating the cause. Stay safe everyone. 🙏",
+      "likesCount": 158200,
+      "commentsCount": 1279,
+      "sharesCount": 755,
+      "sendsCount": 105400,
+      "createdAt": "2025-03-13T18:00:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": true,
+      "likes": [
+        {
+          "id": "like_p2_1",
+          "postId": "post_2",
+          "user": {
+            "id": "user_8",
+            "username": "saini_04324",
+            "displayName": "Saini",
+            "avatarUrl": "https://picsum.photos/seed/saini/200"
+          },
+          "createdAt": "2025-03-13T18:05:00.000Z"
+        },
+        {
+          "id": "like_p2_2",
+          "postId": "post_2",
+          "user": {
+            "id": "user_9",
+            "username": "simmi.5106",
+            "displayName": "Simmi",
+            "avatarUrl": "https://picsum.photos/seed/simmi/200"
+          },
+          "createdAt": "2025-03-13T18:12:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment_p2_1",
+          "postId": "post_2",
+          "user": {
+            "id": "user_8",
+            "username": "saini_04324",
+            "displayName": "Saini",
+            "avatarUrl": "https://picsum.photos/seed/saini/200"
+          },
+          "text": "❤️❤️",
+          "createdAt": "2025-03-13T18:30:00.000Z",
+          "likesCount": 1
+        },
+        {
+          "id": "comment_p2_2",
+          "postId": "post_2",
+          "user": {
+            "id": "user_9",
+            "username": "simmi.5106",
+            "displayName": "Simmi",
+            "avatarUrl": "https://picsum.photos/seed/simmi/200"
+          },
+          "text": "Sara looks so beautiful 😍",
+          "createdAt": "2025-03-13T19:00:00.000Z",
+          "likesCount": 3,
+          "replies": [
+            {
+              "id": "reply_p2_1",
+              "postId": "post_2",
+              "user": {
+                "id": "user_10",
+                "username": "filmygyan",
+                "displayName": "Filmy Gyan",
+                "avatarUrl": "https://picsum.photos/seed/filmy/200"
+              },
+              "text": "But sara ki beauty is like wow",
+              "createdAt": "2025-03-13T19:15:00.000Z",
+              "likesCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "post_3",
+      "author": {
+        "id": "user_11",
+        "username": "chef.rahul",
+        "displayName": "Rahul | Chef",
+        "avatarUrl": "https://picsum.photos/seed/rahul/200",
+        "isVerified": false
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/food1/800/800",
+        "https://picsum.photos/seed/food2/800/800"
+      ],
+      "caption": "Sunday brunch special: Avocado toast with poached eggs and chilli oil. Recipe in stories! 🥑🍳 #homecooking #brunch #foodie",
+      "likesCount": 2847,
+      "commentsCount": 89,
+      "sharesCount": 42,
+      "sendsCount": 156,
+      "createdAt": "2025-03-14T06:00:00.000Z",
+      "isLikedByMe": true,
+      "isSavedByMe": true,
+      "likes": [
+        {
+          "id": "like_p3_1",
+          "postId": "post_3",
+          "user": {
+            "id": "user_12",
+            "username": "meera.eats",
+            "displayName": "Meera",
+            "avatarUrl": "https://picsum.photos/seed/meera/200"
+          },
+          "createdAt": "2025-03-14T06:30:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment_p3_1",
+          "postId": "post_3",
+          "user": {
+            "id": "user_12",
+            "username": "meera.eats",
+            "displayName": "Meera",
+            "avatarUrl": "https://picsum.photos/seed/meera/200"
+          },
+          "text": "Making this tomorrow! Saved ✅",
+          "createdAt": "2025-03-14T07:00:00.000Z",
+          "likesCount": 12
+        },
+        {
+          "id": "comment_p3_2",
+          "postId": "post_3",
+          "user": {
+            "id": "user_13",
+            "username": "veg_lover_ritu",
+            "displayName": "Ritu",
+            "avatarUrl": "https://picsum.photos/seed/ritu/200"
+          },
+          "text": "That chilli oil drizzle though 👌",
+          "createdAt": "2025-03-14T07:20:00.000Z",
+          "likesCount": 7
+        }
+      ]
+    },
+    {
+      "id": "post_4",
+      "author": {
+        "id": "user_14",
+        "username": "fitness_with_meera",
+        "displayName": "Meera K.",
+        "avatarUrl": "https://picsum.photos/seed/meera2/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/gym1/800/800"
+      ],
+      "caption": "5am club. No excuses. 💪 What's your morning routine? #fitness #morningworkout #gymlife #noexcuses",
+      "likesCount": 12500,
+      "commentsCount": 456,
+      "sharesCount": 289,
+      "sendsCount": 1200,
+      "createdAt": "2025-03-13T23:30:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": false,
+      "likes": [
+        {
+          "id": "like_p4_1",
+          "postId": "post_4",
+          "user": {
+            "id": "user_15",
+            "username": "adityahon3344",
+            "displayName": "Aditya",
+            "avatarUrl": "https://picsum.photos/seed/aditya2/200"
+          },
+          "createdAt": "2025-03-14T00:00:00.000Z"
+        },
+        {
+          "id": "like_p4_2",
+          "postId": "post_4",
+          "user": {
+            "id": "user_16",
+            "username": "anusshkaamank",
+            "displayName": "Anushka",
+            "avatarUrl": "https://picsum.photos/seed/anushka2/200"
+          },
+          "createdAt": "2025-03-14T00:15:00.000Z"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "id": "post_5",
+      "author": {
+        "id": "user_17",
+        "username": "ruchika_.rathore",
+        "displayName": "Ruchika Rathore",
+        "avatarUrl": "https://picsum.photos/seed/ruchika/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/kerastase1/800/800",
+        "https://picsum.photos/seed/kerastase2/800/800",
+        "https://picsum.photos/seed/kerastase3/800/800"
+      ],
+      "caption": "Just love this fit sm ✨ KÉRASTASE PARIS Hair & Scalp Institute visit. That mirror moment! 📸",
+      "likesCount": 42200,
+      "commentsCount": 892,
+      "sharesCount": 445,
+      "sendsCount": 2100,
+      "createdAt": "2025-03-12T14:00:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": false,
+      "likes": [
+        {
+          "id": "like_p5_1",
+          "postId": "post_5",
+          "user": {
+            "id": "user_18",
+            "username": "vedika07_3",
+            "displayName": "Vedika",
+            "avatarUrl": "https://picsum.photos/seed/vedika/200"
+          },
+          "createdAt": "2025-03-12T14:30:00.000Z"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment_p5_1",
+          "postId": "post_5",
+          "user": {
+            "id": "user_19",
+            "username": "style.by.neha",
+            "displayName": "Neha",
+            "avatarUrl": "https://picsum.photos/seed/neha/200"
+          },
+          "text": "Outfit goals! Where's the skirt from? 😍",
+          "createdAt": "2025-03-12T15:00:00.000Z",
+          "likesCount": 45
+        }
+      ]
+    },
+    {
+      "id": "post_6",
+      "author": {
+        "id": "user_1",
+        "username": "travels_with_priya",
+        "displayName": "Priya Sharma",
+        "avatarUrl": "https://picsum.photos/seed/priya/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/rajasthan1/800/800",
+        "https://picsum.photos/seed/rajasthan2/800/800"
+      ],
+      "caption": "Rajasthan never disappoints 🌅 Jaisalmer at golden hour. #rajasthan #travelindia",
+      "likesCount": 12480,
+      "commentsCount": 342,
+      "sharesCount": 156,
+      "sendsCount": 892,
+      "createdAt": "2025-03-14T08:30:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": false,
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "post_7",
+      "author": {
+        "id": "user_7",
+        "username": "thetatvaindia",
+        "displayName": "Tatva India",
+        "avatarUrl": "https://picsum.photos/seed/tatva/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/news1/800/800"
+      ],
+      "caption": "Explosions rattled buildings in Dubai. Stay safe everyone. 🙏",
+      "likesCount": 158200,
+      "commentsCount": 1279,
+      "sharesCount": 755,
+      "sendsCount": 105400,
+      "createdAt": "2025-03-13T18:00:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": true,
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "post_8",
+      "author": {
+        "id": "user_11",
+        "username": "chef.rahul",
+        "displayName": "Rahul | Chef",
+        "avatarUrl": "https://picsum.photos/seed/rahul/200",
+        "isVerified": false
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/food1/800/800",
+        "https://picsum.photos/seed/food2/800/800"
+      ],
+      "caption": "Sunday brunch special: Avocado toast. 🥑🍳 #homecooking #brunch",
+      "likesCount": 2847,
+      "commentsCount": 89,
+      "sharesCount": 42,
+      "sendsCount": 156,
+      "createdAt": "2025-03-14T06:00:00.000Z",
+      "isLikedByMe": true,
+      "isSavedByMe": true,
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "post_9",
+      "author": {
+        "id": "user_14",
+        "username": "fitness_with_meera",
+        "displayName": "Meera K.",
+        "avatarUrl": "https://picsum.photos/seed/meera2/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/gym1/800/800"
+      ],
+      "caption": "Leg day done right. 💪 #fitness #workout",
+      "likesCount": 5620,
+      "commentsCount": 128,
+      "sharesCount": 89,
+      "sendsCount": 234,
+      "createdAt": "2025-03-14T00:15:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": false,
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "post_10",
+      "author": {
+        "id": "user_17",
+        "username": "ruchika_.rathore",
+        "displayName": "Ruchika Rathore",
+        "avatarUrl": "https://picsum.photos/seed/ruchika/200",
+        "isVerified": true
+      },
+      "imageUrls": [
+        "https://picsum.photos/seed/kerastase1/800/800",
+        "https://picsum.photos/seed/kerastase2/800/800"
+      ],
+      "caption": "Just love this fit sm ✨ KÉRASTASE PARIS. 📸",
+      "likesCount": 42200,
+      "commentsCount": 892,
+      "sharesCount": 445,
+      "sendsCount": 2100,
+      "createdAt": "2025-03-12T14:00:00.000Z",
+      "isLikedByMe": false,
+      "isSavedByMe": false,
+      "likes": [],
+      "comments": []
+    }
+  ]
+}

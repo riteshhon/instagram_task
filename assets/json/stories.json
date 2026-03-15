@@ -1,0 +1,121 @@
+{
+  "stories": [
+    {
+      "id": "story_1",
+      "user": {
+        "id": "user_1",
+        "username": "travels_with_priya",
+        "displayName": "Priya Sharma",
+        "avatarUrl": "https://picsum.photos/seed/priya/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_priya/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-14T09:00:00.000Z",
+      "isViewed": false
+    },
+    {
+      "id": "story_2",
+      "user": {
+        "id": "user_15",
+        "username": "adityahon3344",
+        "displayName": "Aditya",
+        "avatarUrl": "https://picsum.photos/seed/aditya2/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_aditya/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-14T08:45:00.000Z",
+      "isViewed": false
+    },
+    {
+      "id": "story_3",
+      "user": {
+        "id": "user_16",
+        "username": "anusshkaamank",
+        "displayName": "Anushka",
+        "avatarUrl": "https://picsum.photos/seed/anushka2/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_anushka/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-14T08:30:00.000Z",
+      "isViewed": true
+    },
+    {
+      "id": "story_4",
+      "user": {
+        "id": "user_20",
+        "username": "suhani_shinde7",
+        "displayName": "Suhani Shinde",
+        "avatarUrl": "https://picsum.photos/seed/suhani/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_suhani/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-14T08:15:00.000Z",
+      "isViewed": false
+    },
+    {
+      "id": "story_5",
+      "user": {
+        "id": "user_7",
+        "username": "thetatvaindia",
+        "displayName": "Tatva India",
+        "avatarUrl": "https://picsum.photos/seed/tatva/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_tatva/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-14T07:50:00.000Z",
+      "isViewed": true
+    },
+    {
+      "id": "story_6",
+      "user": {
+        "id": "user_11",
+        "username": "chef.rahul",
+        "displayName": "Rahul | Chef",
+        "avatarUrl": "https://picsum.photos/seed/rahul/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_chef/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-14T07:30:00.000Z",
+      "isViewed": false
+    },
+    {
+      "id": "story_7",
+      "user": {
+        "id": "user_14",
+        "username": "fitness_with_meera",
+        "displayName": "Meera K.",
+        "avatarUrl": "https://picsum.photos/seed/meera2/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_fitness/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-14T06:00:00.000Z",
+      "isViewed": false
+    },
+    {
+      "id": "story_8",
+      "user": {
+        "id": "user_17",
+        "username": "ruchika_.rathore",
+        "displayName": "Ruchika Rathore",
+        "avatarUrl": "https://picsum.photos/seed/ruchika/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_ruchika/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-13T22:30:00.000Z",
+      "isViewed": true
+    },
+    {
+      "id": "story_9",
+      "user": {
+        "id": "user_2",
+        "username": "bhumii.1224",
+        "displayName": "Bhumi",
+        "avatarUrl": "https://picsum.photos/seed/bhumi/200"
+      },
+      "imageUrl": "https://picsum.photos/seed/story_bhumi/800/1400",
+      "videoUrl": null,
+      "createdAt": "2025-03-13T21:00:00.000Z",
+      "isViewed": false
+    }
+  ]
+}
